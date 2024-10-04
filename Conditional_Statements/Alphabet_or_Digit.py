@@ -1,3 +1,5 @@
+# Program to find entering input is alphabet or digit
+
 char = input("Enter something : ")
 
 if char.isalpha():
