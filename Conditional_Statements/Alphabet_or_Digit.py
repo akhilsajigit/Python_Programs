@@ -2,6 +2,7 @@
 
 char = input("Enter something : ")
 
+# checking input string using string comparison methods
 if char.isalpha():
     print(f"{char} is Character")
 elif char.isdigit():
